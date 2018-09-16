@@ -1,0 +1,35 @@
+*****Internal Reporting Tool*****
+
+List Of Articles Titles Available:-
+------------------------------------
+-Bad things gone, say good people
+-Balloon goons doomed
+-Bears love berries, alleges bear
+-Candidate is jerk, alleges rival
+-Goats eat Google's lawn
+-Media obsessed with bears
+-Trouble for troubled troublemakers
+-There are a lot of bears
+____________________________________
+Top 3 Viewed Articles:-
+------------------------
+Title                                   Views
+------                                  -----
+Candidate is jerk, alleges rival        338647
+Bears love berries, alleges bear        253801
+Bad things gone, say good people        170098
+_________________________________________________
+Most Popular Authors:-
+-----------------------
+Author                  Views
+----                    -----
+Ursula La Multa         507594
+Rudolf von Treppenwitz  423457
+Anonymous Contributor   170098
+Markoff Chaney          84557
+____________________________________
+More Than 1% HTTP Request Error:-
+----------------------------------
+Date            Rate
+-----           -----
+2016-07-17      2.26%
